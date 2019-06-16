@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+suite2,Chrome 75.0.3770.90,,2019-06-16 11:46:25,2019-06-16 11:47:10,45.287s,FAILED
+,,,,,,
+Test Cases/TC2,Chrome 75.0.3770.90,,2019-06-16 11:46:25,2019-06-16 11:47:08,42.971s,FAILED
+"openBrowser("""")",Chrome 75.0.3770.90,,2019-06-16 11:46:26,2019-06-16 11:46:35,9.065s,PASSED
+"navigateToUrl(""http://demo.automationtesting.in/Register.html"")",Chrome 75.0.3770.90,,2019-06-16 11:46:35,2019-06-16 11:46:41,5.904s,PASSED
+"mouseOver(findTestObject(""Page_Frames/Switch""))",Chrome 75.0.3770.90,,2019-06-16 11:46:41,2019-06-16 11:46:42,0.812s,PASSED
+"click(findTestObject(""Object Repository/Page_Register/a_Frames""))",Chrome 75.0.3770.90,,2019-06-16 11:46:42,2019-06-16 11:47:07,25.584s,PASSED
+"setText(findTestObject(""Object Repository/Page_Frames/input""), ""happy"")",Chrome 75.0.3770.90,,2019-06-16 11:47:07,2019-06-16 11:47:08,0.773s,FAILED

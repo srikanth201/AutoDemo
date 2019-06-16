@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+suite2,,,2019-06-16 11:44:15,2019-06-16 11:45:40,1m - 24.117s,FAILED
+,,,,,,
+Test Cases/TC2,,,2019-06-16 11:44:16,2019-06-16 11:45:39,1m - 23.249s,FAILED
+"openBrowser("""")",,,2019-06-16 11:44:17,2019-06-16 11:45:39,1m - 22.457s,FAILED
